@@ -1,2 +1,0 @@
-# RegistrationPageAssignment
-Created with CodeSandbox
